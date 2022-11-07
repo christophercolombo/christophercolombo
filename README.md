@@ -1,7 +1,7 @@
 # sobre mim
 
 - 👍 meu Email de contato e christopher.coito@escola.pr.gov.br
-- 👋 Hi, I’m @christophercolombo
+- 👋 ola eu sou @christopher.henrique
 - 👀 eu sou interessado em progamar jogos e  sites
 - 🌱 Eu estou aprendendo a progamar recentemente a linguagem JavaScript e Scratch
 
